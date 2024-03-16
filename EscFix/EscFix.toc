@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: EscFix
+## Author: Anyone0
+## Version: 1.1
+## Notes: Fixes Esc button functionality on Warmane WotLK realms
+
+EscFix.lua
